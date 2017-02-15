@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Greetings mortals!
+
+Great to become part of this awesome community.
+
+Stay tunned!
